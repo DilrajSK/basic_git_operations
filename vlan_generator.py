@@ -2,7 +2,7 @@
 """
 VLAN Configuration Generator
 Reads devices from inventory file and generates VLAN configs
-Test line
+This is from Branch A
 """
 
 import os
